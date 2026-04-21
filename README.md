@@ -33,5 +33,9 @@ tree-diagram.png → visual representation
 - No LLM usage at runtime
 - Same input always produces same output
 
+## How to Run
+cd agent  
+python app.py
+
 ## Author
 Ekta Totala
